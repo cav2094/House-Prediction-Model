@@ -28,6 +28,7 @@ To set up your python environment to run the code in this repository, follow the
   conda install anaconda::scikit-learn
   conda install conda-forge::matplotlib
   conda install anaconda::seaborn
+  conda install -c conda-forge statsmodels
 
 	```
 
