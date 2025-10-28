@@ -1,6 +1,6 @@
 # House-Prediction-Model Predicting Madrid Real Estate Prices Using Linear Regression
 
-This project predicts Madrid house prices by building a linear regression model from scratch and comparing it to the industry-standard scikit-learn implementation. Using the property's size (sq_mt_built) to predict its buy_price, we explore two training methods—Grid Search and Random Search—to understand the fundamentals before validating against a professionally optimized solution.
+This project builds a Linear Regression model using scikit-learn to predict house prices in Madrid. It utilizes the houses_Madrid.csv dataset, incorporating features like property size (sq_mt_built), number of rooms and bathrooms, neighborhood, house type, and various amenities.
 
 # Setup
 To set up your python environment to run the code in this repository, follow the instructions below.
